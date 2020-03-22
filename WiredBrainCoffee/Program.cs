@@ -9,6 +9,7 @@ namespace WiredBrainCoffee
         {
             /// This is a comment to update this file
             /// Now this is a 2nd comment to this file
+            /// Here now is a 3rd comment!
             Console.WriteLine("Wired Brain Coffee!");
             Console.WriteLine("Write 'help' to list available Coffee Shop commands");
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
