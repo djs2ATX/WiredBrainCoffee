@@ -8,8 +8,9 @@ namespace WiredBrainCoffee
         static void Main(string[] args)
         {
             /// This is a comment to update this file
+            /// Now this is a 2nd comment to this file
             Console.WriteLine("Wired Brain Coffee!");
-            Console.WriteLine("Write 'help' to list available commands");
+            Console.WriteLine("Write 'help' to list available Coffee Shop commands");
             var coffeeShopDataProvider = new CoffeeShopDataProvider();
 
             while (true)
